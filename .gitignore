@@ -1,0 +1,15 @@
+A calculator project can involve designing a calculator, manufacturing a calculator, or creating a website to help people use calculators. 
+Designing a calculator.
+Create functions: Create functions that populate the display when a user clicks a digit button
+Store numbers: Store the numbers input by the user in variables
+Perform operations: When the user presses the equal button, perform the operation selected between the numbers
+Update display: Update the display with the result of the operation
+Manufacturing a calculator 
+Assemble the PCB: Assemble the calculator's printed circuit board (PCB)
+Apply solder paste: Apply solder paste to the PCB using a stencil and solder paste inspection machine
+Solder components: Solder components to the PCB
+Creating a calculator website 
+Create a website: Create a website that helps people use calculators to solve math problems
+Make the website interactive: Make the website interactive so that people can use the calculator to get correct answers
+Make the website easy to use: Make the website easy to use and provide math content in an easy-to-use format
+Calculator projects can be done using different programming languages, such as HTML, JavaScript, or CSS. 
